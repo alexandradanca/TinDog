@@ -2,7 +2,7 @@
   <a href="https://alexandradanca.github.io/TinDog/" target="_blank">TinDog</a>
 </h2>
 
-<p>This is a Dating App for Dogs. </br>It was create during front-end learning journey</p>
+<p>This is a Dating App for Dogs. </br>It was created during front-end learning journey</p>
 
 <h2>Mockup</h2>
 <div align="center"> 
