@@ -1,5 +1,5 @@
 <h2 align="center">
-  <a href="https://alexandradanca.github.io/TinDog/" target="_blank">TinDog</a>
+💌 <a href="https://alexandradanca.github.io/TinDog/" target="_blank">TinDog</a>
 </h2>
 
 <p>This is a Dating App for Dogs. </br>It was created during front-end learning journey</p>
